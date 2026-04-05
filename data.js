@@ -262,8 +262,8 @@ var APP_DATA = {
           "target": "6-"
         },
         {
-          "yaw": 1.1215731179644166,
-          "pitch": 0.4698564816807025,
+          "yaw": 0.9156725641861048,
+          "pitch": 0.47489807239311155,
           "rotation": 0,
           "target": "7-"
         },
@@ -318,6 +318,12 @@ var APP_DATA = {
           "pitch": 0.3492927710263025,
           "rotation": 0,
           "target": "8---"
+        },
+        {
+          "yaw": -2.7616154837848548,
+          "pitch": 0.6718463187762787,
+          "rotation": 0,
+          "target": "5-"
         }
       ],
       "infoHotspots": []
@@ -456,7 +462,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.545461738055713,
+          "pitch": 0.5597377191833139,
+          "rotation": 0,
+          "target": "6-"
+        }
+      ],
       "infoHotspots": []
     },
     {
